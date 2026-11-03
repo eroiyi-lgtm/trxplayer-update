@@ -1,21 +1,21 @@
 {
- "version": "2.13.3",
+ "version": "2.13.4",
  "code": 20908,
- "apk": "trxplayer-2.13.3.apk",
- "sha256": "7c257572a035e78e0c4f49ed41a7990121599308fa73bf119f6824b1cfd45e19",
+ "apk": "trxplayer-2.13.4.apk",
+ "sha256": "aee910e27f3f1fce324a7d281bbe8fd08e0644eb77dbe055c32e5c37f962543b",
  "web": {
-  "version": "2.13.3",
-  "url": "lg-2.13.3.html",
-  "sha256": "87deabc06596e0c1917d577bd283909475b8a84ef043f8c10f868a3b4021f041"
+  "version": "2.13.4",
+  "url": "lg-2.13.4.html",
+  "sha256": "2189e10c3a0a3fea96af926b94be048c05274f15fd7a00b21d6e93d1adcf1f3e"
  },
  "tizen": {
-  "version": "2.13.3",
-  "url": "tizen-2.13.3.html",
-  "sha256": "1eff9a95f11af46a6f6ca9963603cbea4d2f20e84933c7eb70c4a62468280328"
+  "version": "2.13.4",
+  "url": "tizen-2.13.4.html",
+  "sha256": "441021a1193e645b98aac0e928a811a8b7b7c6bb946ac690d1cc341af3531195"
  },
  "notes": [
-  "Filme & Serien: Kategorie öffnet auf derselben Seite, Leiste bleibt",
-  "Kategorien fest links als Glas-Leiste",
+  "Suchen ganz oben in Live-TV und bei Filmen/Serien",
+  "Filme & Serien: Kategorie öffnet auf derselben Seite",
   "LG/Samsung: Suche per TV-Tastatur mit Mikrofon"
  ]
 }
