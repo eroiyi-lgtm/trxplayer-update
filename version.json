@@ -1,21 +1,21 @@
 {
- "version": "2.13.5",
+ "version": "2.13.6",
  "code": 20908,
- "apk": "trxplayer-2.13.5.apk",
- "sha256": "d1966e1187cc87f2c63f7e2487afce9fe4cbd2d424e956b806cf90628371efb4",
+ "apk": "trxplayer-2.13.6.apk",
+ "sha256": "6ea1e08319be157c3236bf26c96a4c861fb4232d8df4e0265878238122dfc884",
  "web": {
-  "version": "2.13.5",
-  "url": "lg-2.13.5.html",
-  "sha256": "7f3e200b812a6b5f4163893cff365d063b9eba25f773de1442dedebf0d78396c"
+  "version": "2.13.6",
+  "url": "lg-2.13.6.html",
+  "sha256": "89745b090142a6d27d8f3e7fcc0ccf889565f5ec66b3d2a11a660a5f176dff97"
  },
  "tizen": {
-  "version": "2.13.5",
-  "url": "tizen-2.13.5.html",
-  "sha256": "4ef7350cf88df32d07e960a68ab2a188205612b352e619ff0905091acd5540da"
+  "version": "2.13.6",
+  "url": "tizen-2.13.6.html",
+  "sha256": "fb61866827856dedba891f17b6c3674eac4ac3d072578aee87f64dafad255c68"
  },
  "notes": [
-  "Filme & Serien: „OK ⓘ Info“ auf dem gewählten Poster",
-  "Suchen ganz oben in Live-TV und bei Filmen/Serien",
-  "Kategorie öffnet auf derselben Seite"
+  "Filme & Serien: flüssigeres Blättern, Reihen gleiten weich",
+  "„OK ⓘ Info“ auf dem gewählten Poster",
+  "Suchen ganz oben in Live-TV und bei Filmen/Serien"
  ]
 }
