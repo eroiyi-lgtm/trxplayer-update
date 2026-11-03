@@ -1,24 +1,24 @@
 {
- "version": "2.11.0",
+ "version": "2.12.0",
  "code": 20907,
- "apk": "trxplayer-2.11.0.apk",
- "sha256": "dca3ff4a2e54bbbc673d54fc84c65bf870eea656c9889e5eb91f0e512ee1d850",
+ "apk": "trxplayer-2.12.0.apk",
+ "sha256": "b18e33fc61d4caa9252a0ca1d1619584b167d2773370e7b8fa31dc33d050f2ce",
  "web": {
-  "version": "2.11.0",
-  "url": "lg-2.11.0.html",
-  "sha256": "76cbd41868fef4e668e61811b459e4fdae812cd336ccf1755a68c2397bdb2835"
+  "version": "2.12.0",
+  "url": "lg-2.12.0.html",
+  "sha256": "e68e6642a0d5bd2d20909006a14269b94d6602772591bc5c2a3bcea175bbe6fd"
  },
  "tizen": {
-  "version": "2.11.0",
-  "url": "tizen-2.11.0.html",
-  "sha256": "7eda4da266c0b6f22728f54542bce714598b81f88d68ffe87e8c8402a61b975e"
+  "version": "2.12.0",
+  "url": "tizen-2.12.0.html",
+  "sha256": "6a3cef4acb125fca3507b7a12397a9b27331d747b5703e26c06249393315d7d3"
  },
  "notes": [
-  "Neu: Vorschau wächst weich ins Vollbild, Senderliste gleitet von links herein",
-  "Neu: flache Infoleiste mit Zeitstrahl im Live-Bild",
-  "Neu: Gruppen ordnen – anheften, verschieben, ausblenden (TV und Handy)",
-  "Neu: Gruppen nach Sprache & Land sortieren",
-  "Besser: Banner und Poster reagieren schneller",
-  "Neu: Schalter „Animationen“ unter Darstellung"
+  "Neu: Profile – „Wer schaut?“ beim Start, eigene Favoriten und Verlauf, Kinder-Profil",
+  "Neu: Startseite zeigt „Zuletzt gesehene Sender“ mit laufender Sendung",
+  "Neu: Intro überspringen bei Serien (merkt sich die Stelle je Serie)",
+  "Neu: Ton- und Untertitelsprache werden gemerkt",
+  "Neu: Konto-Info mit Ablaufdatum und Verbindungen",
+  "Besser: Catch-up-Zeichen im TV-Guide"
  ]
 }
