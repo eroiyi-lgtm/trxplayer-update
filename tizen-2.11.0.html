@@ -6899,11 +6899,13 @@ const CFG = Object.freeze({
   // Website mit Lizenz-Dienst (/api/) und Kaufseite. Leer = Dienst aus (Vorschau): Test läuft lokal, nichts wird gesperrt.
   SITE: window.TRX_SITE || "",
   // Update-Angaben der Android-App (version.json neben der APK); später auf die eigene Domain umstellen
-  // Updates liegen auf GitHub Pages (eigenes öffentliches Repo trxplayer-update); Netlify bleibt Rückfall
-  UPDATE_URL: window.TRX_UPDATE || "https://eroiyi-lgtm.github.io/trxplayer-update/version.json",
+  // Updates liegen im öffentlichen GitHub-Repo trxplayer-update (raw, CORS *, 5 min Cache); Netlify bleibt Rückfall
+  UPDATE_URL: window.TRX_UPDATE || "https://raw.githubusercontent.com/eroiyi-lgtm/trxplayer-update/main/version.json",
   UPDATE_FALLBACK: "https://trxplayer-vorschau.netlify.app/update/version.json",
   // Server-Funktionen (Geräte-Übertragung, Lizenz) bleiben auf Netlify
   API_SITE: window.TRX_API || "https://trxplayer-vorschau.netlify.app",
+  // Trailerfenster braucht echtes text/html (raw.githubusercontent liefert text/plain) → bleibt auf Netlify
+  YT_URL: "https://trxplayer-vorschau.netlify.app/update/yt.html",
   // Eingebaute Demo nur im Browser. Android-/TV-Builds starten ohne Beispielinhalte.
   DEMO: !(location.protocol === "trx:" || window.TrxNative || ((_b = (_a = window.Capacitor) == null ? void 0 : _a.isNativePlatform) == null ? void 0 : _b.call(_a)) || window.tizen || window.PalmSystem || /Web0S|Tizen/i.test(navigator.userAgent)),
   LIBS: {
@@ -14274,8 +14276,8 @@ const Trailer = {
     (_a = Player.suspendPreview) == null ? void 0 : _a.call(Player);
     const origin = /^https?:/.test(location.origin) ? `&origin=${encodeURIComponent(location.origin)}` : "";
     const viaSite = IS_TV_APP || NATIVE || !/^https?:$/.test(location.protocol);
-    const src = viaSite ? new URL(`yt.html?v=${id}`, CFG.UPDATE_URL).href : `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0&playsinline=1&fs=0&iv_load_policy=3&enablejsapi=1&hl=de${origin}`;
-    const site = viaSite ? new URL(CFG.UPDATE_URL).origin : "";
+    const src = viaSite ? `${CFG.YT_URL}?v=${id}` : `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0&playsinline=1&fs=0&iv_load_policy=3&enablejsapi=1&hl=de${origin}`;
+    const site = viaSite ? new URL(CFG.YT_URL).origin : "";
     this.t = 0;
     this.playing = true;
     this.onMsg = (e) => {

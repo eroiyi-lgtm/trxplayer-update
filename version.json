@@ -2,16 +2,16 @@
  "version": "2.11.0",
  "code": 20907,
  "apk": "trxplayer-2.11.0.apk",
- "sha256": "bdc0b7a64e67706fc2c725489392a2bb94e358f14c43028b4df76d469d0cf0a9",
+ "sha256": "dca3ff4a2e54bbbc673d54fc84c65bf870eea656c9889e5eb91f0e512ee1d850",
  "web": {
   "version": "2.11.0",
   "url": "lg-2.11.0.html",
-  "sha256": "3b4ed0fe20907100bdcf7a5e55875cd055960e745406f1fd4f68cf9ad3224aff"
+  "sha256": "76cbd41868fef4e668e61811b459e4fdae812cd336ccf1755a68c2397bdb2835"
  },
  "tizen": {
   "version": "2.11.0",
   "url": "tizen-2.11.0.html",
-  "sha256": "c723085152325a557eb8de55fef7c54aecf41671cab900fb705534b71b7b6899"
+  "sha256": "7eda4da266c0b6f22728f54542bce714598b81f88d68ffe87e8c8402a61b975e"
  },
  "notes": [
   "Neu: Vorschau wächst weich ins Vollbild, Senderliste gleitet von links herein",
