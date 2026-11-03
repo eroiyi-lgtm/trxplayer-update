@@ -1,21 +1,19 @@
 {
- "version": "2.13.7",
+ "version": "2.13.8",
  "code": 20908,
- "apk": "trxplayer-2.13.7.apk",
- "sha256": "cbae9cc70efcf8bffe9ef1a4250ad179b15c9257ba78a0125ca4d8bfd2034f62",
+ "apk": "trxplayer-2.13.8.apk",
+ "sha256": "d3af4890f7c26698515fde6a15f321fed7fb8bd3b74d36ea01e39960664fe762",
  "web": {
-  "version": "2.13.7",
-  "url": "lg-2.13.7.html",
-  "sha256": "8e0e054daef7381a3fb3e4642fa2b0da5872fc40d9d5bdb9e036a174d0b5cd14"
+  "version": "2.13.8",
+  "url": "lg-2.13.8.html",
+  "sha256": "cdb4fdcdb21f4035b4b08f2772684eedb74e7e1ff83c0bdbc9c5e17b40e806d4"
  },
  "tizen": {
-  "version": "2.13.7",
-  "url": "tizen-2.13.7.html",
-  "sha256": "7cdf4d682ced1db28bc1e3cb97edc394cbad9a63ba6d043c9df34fbef29630fa"
+  "version": "2.13.8",
+  "url": "tizen-2.13.8.html",
+  "sha256": "b885575d4bfded2d55728ff20688208e022b5670ca07ff92d3054833ff61d3c5"
  },
  "notes": [
-  "Filme & Serien: 5 größere Poster je Zeile in den Kategorien",
-  "Flüssigeres Blättern, Reihen gleiten weich",
-  "„OK ⓘ Info“ auf dem gewählten Poster"
+  "Flüssigeres Blättern: Hintergrund und Poster-Schein werden vorgezeichnet statt live weichgezeichnet"
  ]
 }
