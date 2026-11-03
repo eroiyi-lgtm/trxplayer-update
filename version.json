@@ -1,20 +1,21 @@
 {
- "version": "2.13.0",
+ "version": "2.13.2",
  "code": 20908,
- "apk": "trxplayer-2.13.0.apk",
- "sha256": "bbb57136349da4095d3c96e51eb9695ed94287e766b32800a369156f6da89683",
+ "apk": "trxplayer-2.13.2.apk",
+ "sha256": "51b782938c5b75ebd82e80318d2096b9d55fdab1f3bff9b389a1caef9a341e84",
  "web": {
-  "version": "2.13.0",
-  "url": "lg-2.13.0.html",
-  "sha256": "501480b942deec2018c29392c1a1414f601490d4cafbf9a27c29c3b0edb29c9b"
+  "version": "2.13.2",
+  "url": "lg-2.13.2.html",
+  "sha256": "0cd703567fe00629f591e1b67dd2ef87625e515afba72fc8ac3ead0f17f321e3"
  },
  "tizen": {
-  "version": "2.13.0",
-  "url": "tizen-2.13.0.html",
-  "sha256": "cd9d69c6f1188b1910338b362c2f4b1ae77f67dc4341540e817c5b0f76184f46"
+  "version": "2.13.2",
+  "url": "tizen-2.13.2.html",
+  "sha256": "1d74c3385ec8079dda6bff15552a67f3cc2095e8878425d3e172197e3e9753b7"
  },
  "notes": [
-  "Neu: Sprachsuche – Mikrofon in der Suche, Such-/Mikrofontaste der Fernbedienung (Android, Handy, Browser)",
-  "Android: einmalige Installation nötig (neue App-Funktion)"
+  "Filme & Serien: Kategorien fest links als Glas-Leiste",
+  "Startseite: gewählter Sender gut sichtbar",
+  "LG/Samsung: Suche per TV-Tastatur mit Mikrofon"
  ]
 }
