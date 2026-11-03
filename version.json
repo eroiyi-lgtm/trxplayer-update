@@ -1,24 +1,20 @@
 {
- "version": "2.12.0",
- "code": 20907,
- "apk": "trxplayer-2.12.0.apk",
- "sha256": "b18e33fc61d4caa9252a0ca1d1619584b167d2773370e7b8fa31dc33d050f2ce",
+ "version": "2.13.0",
+ "code": 20908,
+ "apk": "trxplayer-2.13.0.apk",
+ "sha256": "bbb57136349da4095d3c96e51eb9695ed94287e766b32800a369156f6da89683",
  "web": {
-  "version": "2.12.0",
-  "url": "lg-2.12.0.html",
-  "sha256": "e68e6642a0d5bd2d20909006a14269b94d6602772591bc5c2a3bcea175bbe6fd"
+  "version": "2.13.0",
+  "url": "lg-2.13.0.html",
+  "sha256": "501480b942deec2018c29392c1a1414f601490d4cafbf9a27c29c3b0edb29c9b"
  },
  "tizen": {
-  "version": "2.12.0",
-  "url": "tizen-2.12.0.html",
-  "sha256": "6a3cef4acb125fca3507b7a12397a9b27331d747b5703e26c06249393315d7d3"
+  "version": "2.13.0",
+  "url": "tizen-2.13.0.html",
+  "sha256": "cd9d69c6f1188b1910338b362c2f4b1ae77f67dc4341540e817c5b0f76184f46"
  },
  "notes": [
-  "Neu: Profile – „Wer schaut?“ beim Start, eigene Favoriten und Verlauf, Kinder-Profil",
-  "Neu: Startseite zeigt „Zuletzt gesehene Sender“ mit laufender Sendung",
-  "Neu: Intro überspringen bei Serien (merkt sich die Stelle je Serie)",
-  "Neu: Ton- und Untertitelsprache werden gemerkt",
-  "Neu: Konto-Info mit Ablaufdatum und Verbindungen",
-  "Besser: Catch-up-Zeichen im TV-Guide"
+  "Neu: Sprachsuche – Mikrofon in der Suche, Such-/Mikrofontaste der Fernbedienung (Android, Handy, Browser)",
+  "Android: einmalige Installation nötig (neue App-Funktion)"
  ]
 }
