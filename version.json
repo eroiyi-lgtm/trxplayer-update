@@ -1,19 +1,19 @@
 {
- "version": "2.13.19",
+ "version": "2.13.20",
  "code": 20908,
- "apk": "trxplayer-2.13.19.apk",
- "sha256": "ab110a79231cbcbe77a8b457fec18b032cc90a8547f1a4e9d04e32c0efd15209",
+ "apk": "trxplayer-2.13.20.apk",
+ "sha256": "d85e6b397f5e76af453e6a63f1be919d0b5176be0b48721955b34672660b22ba",
  "web": {
-  "version": "2.13.19",
-  "url": "lg-2.13.19.html",
-  "sha256": "56928cad95230382b2dc783cecae759241ff84c233b68f85b8dcc4343ef347fd"
+  "version": "2.13.20",
+  "url": "lg-2.13.20.html",
+  "sha256": "ffc41543cfcca48920e67f39f99f7c05681d8b6d6be701ee666820fd8aea37f7"
  },
  "tizen": {
-  "version": "2.13.19",
-  "url": "tizen-2.13.19.html",
-  "sha256": "595cc86e07a776602a6077fdf166259dd7bf52c2c56f63af9d7bf0c7adf0e1ef"
+  "version": "2.13.20",
+  "url": "tizen-2.13.20.html",
+  "sha256": "3fea225af0799eb32921726ba41e373f82488e0119b02cece2b8de232a0ed839"
  },
  "notes": [
-  "Länderliste zeigt Live, Filme und Serien je Land; Sichtbar holt ausgeblendete Gruppen zurück"
+  "Neuer Hintergrund: Weltall mit Erde, Mond und Sternschnuppen (auch als Standbild)"
  ]
 }
