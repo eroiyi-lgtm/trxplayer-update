@@ -1,19 +1,19 @@
 {
- "version": "2.13.20",
+ "version": "2.13.21",
  "code": 20908,
- "apk": "trxplayer-2.13.20.apk",
- "sha256": "d85e6b397f5e76af453e6a63f1be919d0b5176be0b48721955b34672660b22ba",
+ "apk": "trxplayer-2.13.21.apk",
+ "sha256": "9bed31da360648b3546096c51a96ff7e1f668528580995eaedbeffcd7c399b7e",
  "web": {
-  "version": "2.13.20",
-  "url": "lg-2.13.20.html",
-  "sha256": "ffc41543cfcca48920e67f39f99f7c05681d8b6d6be701ee666820fd8aea37f7"
+  "version": "2.13.21",
+  "url": "lg-2.13.21.html",
+  "sha256": "99e540ab9becaec1c50489618a71bfc7fd4b34439dfdc20647e6eac8fda91a79"
  },
  "tizen": {
-  "version": "2.13.20",
-  "url": "tizen-2.13.20.html",
-  "sha256": "3fea225af0799eb32921726ba41e373f82488e0119b02cece2b8de232a0ed839"
+  "version": "2.13.21",
+  "url": "tizen-2.13.21.html",
+  "sha256": "bd149108773817e730c4b7dd73ca4bfb7cd57698f67843af3ea3990433093d9f"
  },
  "notes": [
-  "Neuer Hintergrund: Weltall mit Erde, Mond und Sternschnuppen (auch als Standbild)"
+  "Flüssiger: Filme/Serien, TV-Guide, Weltall-Hintergrund (Speed-Check)"
  ]
 }
