@@ -1,19 +1,19 @@
 {
- "version": "2.13.10",
+ "version": "2.13.11",
  "code": 20908,
- "apk": "trxplayer-2.13.10.apk",
- "sha256": "180a5f48a05851172f7f198b3beeee52f99abaee09d08af32830c9cc89c6e2af",
+ "apk": "trxplayer-2.13.11.apk",
+ "sha256": "75999df6b8d4dfe92453cb962a12f7a90a775cae6361794ff043aa9258981899",
  "web": {
-  "version": "2.13.10",
-  "url": "lg-2.13.10.html",
-  "sha256": "76f65a9e5e6d338bd36a789b8d7fd0bfb4ba4cefa12ae77ecd581e9486eada45"
+  "version": "2.13.11",
+  "url": "lg-2.13.11.html",
+  "sha256": "d83bd9a3457c9ee1f1305c0f1b93555efeeef6ca19446cf63e493ae2c1514611"
  },
  "tizen": {
-  "version": "2.13.10",
-  "url": "tizen-2.13.10.html",
-  "sha256": "579f2f4b8da233c71bde92d8e342b7a3f096a33e832eb9ae84652a80d06223e0"
+  "version": "2.13.11",
+  "url": "tizen-2.13.11.html",
+  "sha256": "735abcc427dcc8c07381ca5fc40aea183df8ddcee504bf905185beded9711621"
  },
  "notes": [
-  "Großer Such-Balken auf Start, TV-Guide-Kachel, Filme/Serien starten mit Alle"
+  "Intro überspringen und Spulen: kein Lade-Kreisel mehr bei kurzen Ladepausen"
  ]
 }
