@@ -1,19 +1,19 @@
 {
- "version": "2.13.8",
+ "version": "2.13.9",
  "code": 20908,
- "apk": "trxplayer-2.13.8.apk",
- "sha256": "d3af4890f7c26698515fde6a15f321fed7fb8bd3b74d36ea01e39960664fe762",
+ "apk": "trxplayer-2.13.9.apk",
+ "sha256": "5ee7c218b519edcb52be3b1e0ff2e84795c162750dfa73916173b444293c301c",
  "web": {
-  "version": "2.13.8",
-  "url": "lg-2.13.8.html",
-  "sha256": "cdb4fdcdb21f4035b4b08f2772684eedb74e7e1ff83c0bdbc9c5e17b40e806d4"
+  "version": "2.13.9",
+  "url": "lg-2.13.9.html",
+  "sha256": "ecdd5a9fbcf57f02e40d5dc1d57ae43051522d0dfa5be190af1d81abb9812fbc"
  },
  "tizen": {
-  "version": "2.13.8",
-  "url": "tizen-2.13.8.html",
-  "sha256": "b885575d4bfded2d55728ff20688208e022b5670ca07ff92d3054833ff61d3c5"
+  "version": "2.13.9",
+  "url": "tizen-2.13.9.html",
+  "sha256": "0081d51adbab93e336382eebd52b6ad02e235fe286dfa163456ebcaed677c65e"
  },
  "notes": [
-  "Flüssigeres Blättern: Hintergrund und Poster-Schein werden vorgezeichnet statt live weichgezeichnet"
+  "Suche oben auf der Startseite; kein Springen mehr im Raster"
  ]
 }
