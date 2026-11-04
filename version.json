@@ -1,19 +1,19 @@
 {
- "version": "2.13.16",
+ "version": "2.13.17",
  "code": 20908,
- "apk": "trxplayer-2.13.16.apk",
- "sha256": "71d9fc70d9bfc3b1989bfbf2374280e0405456eb7965702a11aa50ea364f30f4",
+ "apk": "trxplayer-2.13.17.apk",
+ "sha256": "3f9cfef280a952b47169b696a21b7804af1eaefbb500d13fe5d12afafa519761",
  "web": {
-  "version": "2.13.16",
-  "url": "lg-2.13.16.html",
-  "sha256": "04b017dc05af12804c8a9b6a07ba5de9bed8f353f0deb620c8c25789dcedaa73"
+  "version": "2.13.17",
+  "url": "lg-2.13.17.html",
+  "sha256": "a444ad3bc51cae1928658df23102c3affed990dba24d149b2427ba0bd30f27ef"
  },
  "tizen": {
-  "version": "2.13.16",
-  "url": "tizen-2.13.16.html",
-  "sha256": "a1ecbdde81e31cac956a0a94f56d593923b5e21c732a92b4bc5dd4d9d3843c98"
+  "version": "2.13.17",
+  "url": "tizen-2.13.17.html",
+  "sha256": "eef3fa0cfe56f00e9e196f4d65686ea42562e6ccde0ac72c62af48d18246ee1b"
  },
  "notes": [
-  "Flüssigeres Scrollen auf der Startseite"
+  "Live-TV immer als Liste mit Vorschau (Kachel-Ansicht entfernt)"
  ]
 }
