@@ -1,19 +1,19 @@
 {
- "version": "2.13.12",
+ "version": "2.13.13",
  "code": 20908,
- "apk": "trxplayer-2.13.12.apk",
- "sha256": "70f3986dff1f10a2c411f25fbb2dcfa1b01dac5b3e163f2cb984a731909d3247",
+ "apk": "trxplayer-2.13.13.apk",
+ "sha256": "b7b008d58b7f27ccdfd06704110ce31960d9f0d607e048cc40441a17ac5dd4f3",
  "web": {
-  "version": "2.13.12",
-  "url": "lg-2.13.12.html",
-  "sha256": "7c12b12ac8c6789db06544d30092f1e013495c5fad745ccb3c2caa91da9d3f6e"
+  "version": "2.13.13",
+  "url": "lg-2.13.13.html",
+  "sha256": "1df9c70f7209d4dae18842afc1115554f3d2864533f2dd1dd2ea99e3ea4e9583"
  },
  "tizen": {
-  "version": "2.13.12",
-  "url": "tizen-2.13.12.html",
-  "sha256": "cd248e4ab525303dc1b6043c0bf6c2eccbb9f19910c160ad637bb14512a7ae22"
+  "version": "2.13.13",
+  "url": "tizen-2.13.13.html",
+  "sha256": "25c04aff1444fb939ae29d072e45d7858812e0ac14f12c95ac345c3dbd61bf37"
  },
  "notes": [
-  "Handy-Start: runde Knöpfe, Sender-Kürzel wenn kein Logo"
+  "Intro-Knopf verschwindet nach 10 Sekunden"
  ]
 }
