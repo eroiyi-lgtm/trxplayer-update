@@ -1,19 +1,19 @@
 {
- "version": "2.13.15",
+ "version": "2.13.16",
  "code": 20908,
- "apk": "trxplayer-2.13.15.apk",
- "sha256": "f894dcdabb62a3a1f7763f8cab61e723c966fde877c5ceb700180ef768a5d43f",
+ "apk": "trxplayer-2.13.16.apk",
+ "sha256": "71d9fc70d9bfc3b1989bfbf2374280e0405456eb7965702a11aa50ea364f30f4",
  "web": {
-  "version": "2.13.15",
-  "url": "lg-2.13.15.html",
-  "sha256": "2bc0ad10f053b5688cc9814a34b5111c78b168544e6ee9abb960f960020153de"
+  "version": "2.13.16",
+  "url": "lg-2.13.16.html",
+  "sha256": "04b017dc05af12804c8a9b6a07ba5de9bed8f353f0deb620c8c25789dcedaa73"
  },
  "tizen": {
-  "version": "2.13.15",
-  "url": "tizen-2.13.15.html",
-  "sha256": "645855e9d3cc23c415e03e2b05755f00f88e51f3129e5801b7843fc4ed57f9a9"
+  "version": "2.13.16",
+  "url": "tizen-2.13.16.html",
+  "sha256": "a1ecbdde81e31cac956a0a94f56d593923b5e21c732a92b4bc5dd4d9d3843c98"
  },
  "notes": [
-  "Sichere Xtream/M3U-Anmeldung, Zugang-bis-Anzeige auf der Startseite, Favoriten-Flagge"
+  "Flüssigeres Scrollen auf der Startseite"
  ]
 }
