@@ -1,19 +1,19 @@
 {
- "version": "2.13.13",
+ "version": "2.13.15",
  "code": 20908,
- "apk": "trxplayer-2.13.13.apk",
- "sha256": "b7b008d58b7f27ccdfd06704110ce31960d9f0d607e048cc40441a17ac5dd4f3",
+ "apk": "trxplayer-2.13.15.apk",
+ "sha256": "f894dcdabb62a3a1f7763f8cab61e723c966fde877c5ceb700180ef768a5d43f",
  "web": {
-  "version": "2.13.13",
-  "url": "lg-2.13.13.html",
-  "sha256": "1df9c70f7209d4dae18842afc1115554f3d2864533f2dd1dd2ea99e3ea4e9583"
+  "version": "2.13.15",
+  "url": "lg-2.13.15.html",
+  "sha256": "2bc0ad10f053b5688cc9814a34b5111c78b168544e6ee9abb960f960020153de"
  },
  "tizen": {
-  "version": "2.13.13",
-  "url": "tizen-2.13.13.html",
-  "sha256": "25c04aff1444fb939ae29d072e45d7858812e0ac14f12c95ac345c3dbd61bf37"
+  "version": "2.13.15",
+  "url": "tizen-2.13.15.html",
+  "sha256": "645855e9d3cc23c415e03e2b05755f00f88e51f3129e5801b7843fc4ed57f9a9"
  },
  "notes": [
-  "Intro-Knopf verschwindet nach 10 Sekunden"
+  "Sichere Xtream/M3U-Anmeldung, Zugang-bis-Anzeige auf der Startseite, Favoriten-Flagge"
  ]
 }
