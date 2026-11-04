@@ -1,19 +1,19 @@
 {
- "version": "2.13.11",
+ "version": "2.13.12",
  "code": 20908,
- "apk": "trxplayer-2.13.11.apk",
- "sha256": "75999df6b8d4dfe92453cb962a12f7a90a775cae6361794ff043aa9258981899",
+ "apk": "trxplayer-2.13.12.apk",
+ "sha256": "70f3986dff1f10a2c411f25fbb2dcfa1b01dac5b3e163f2cb984a731909d3247",
  "web": {
-  "version": "2.13.11",
-  "url": "lg-2.13.11.html",
-  "sha256": "d83bd9a3457c9ee1f1305c0f1b93555efeeef6ca19446cf63e493ae2c1514611"
+  "version": "2.13.12",
+  "url": "lg-2.13.12.html",
+  "sha256": "7c12b12ac8c6789db06544d30092f1e013495c5fad745ccb3c2caa91da9d3f6e"
  },
  "tizen": {
-  "version": "2.13.11",
-  "url": "tizen-2.13.11.html",
-  "sha256": "735abcc427dcc8c07381ca5fc40aea183df8ddcee504bf905185beded9711621"
+  "version": "2.13.12",
+  "url": "tizen-2.13.12.html",
+  "sha256": "cd248e4ab525303dc1b6043c0bf6c2eccbb9f19910c160ad637bb14512a7ae22"
  },
  "notes": [
-  "Intro überspringen und Spulen: kein Lade-Kreisel mehr bei kurzen Ladepausen"
+  "Handy-Start: runde Knöpfe, Sender-Kürzel wenn kein Logo"
  ]
 }
