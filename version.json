@@ -1,19 +1,19 @@
 {
- "version": "2.13.9",
+ "version": "2.13.10",
  "code": 20908,
- "apk": "trxplayer-2.13.9.apk",
- "sha256": "5ee7c218b519edcb52be3b1e0ff2e84795c162750dfa73916173b444293c301c",
+ "apk": "trxplayer-2.13.10.apk",
+ "sha256": "180a5f48a05851172f7f198b3beeee52f99abaee09d08af32830c9cc89c6e2af",
  "web": {
-  "version": "2.13.9",
-  "url": "lg-2.13.9.html",
-  "sha256": "ecdd5a9fbcf57f02e40d5dc1d57ae43051522d0dfa5be190af1d81abb9812fbc"
+  "version": "2.13.10",
+  "url": "lg-2.13.10.html",
+  "sha256": "76f65a9e5e6d338bd36a789b8d7fd0bfb4ba4cefa12ae77ecd581e9486eada45"
  },
  "tizen": {
-  "version": "2.13.9",
-  "url": "tizen-2.13.9.html",
-  "sha256": "0081d51adbab93e336382eebd52b6ad02e235fe286dfa163456ebcaed677c65e"
+  "version": "2.13.10",
+  "url": "tizen-2.13.10.html",
+  "sha256": "579f2f4b8da233c71bde92d8e342b7a3f096a33e832eb9ae84652a80d06223e0"
  },
  "notes": [
-  "Suche oben auf der Startseite; kein Springen mehr im Raster"
+  "Großer Such-Balken auf Start, TV-Guide-Kachel, Filme/Serien starten mit Alle"
  ]
 }
