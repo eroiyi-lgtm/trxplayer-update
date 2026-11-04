@@ -1,19 +1,19 @@
 {
- "version": "2.13.18",
+ "version": "2.13.19",
  "code": 20908,
- "apk": "trxplayer-2.13.18.apk",
- "sha256": "fe14100d2a1489f3e717174ac652a6b890f2566be176b6b132694608e2d190b0",
+ "apk": "trxplayer-2.13.19.apk",
+ "sha256": "ab110a79231cbcbe77a8b457fec18b032cc90a8547f1a4e9d04e32c0efd15209",
  "web": {
-  "version": "2.13.18",
-  "url": "lg-2.13.18.html",
-  "sha256": "8d4884277f150564db5700f24b29636dd001e004f4000f33775f60ce0238c1a4"
+  "version": "2.13.19",
+  "url": "lg-2.13.19.html",
+  "sha256": "56928cad95230382b2dc783cecae759241ff84c233b68f85b8dcc4343ef347fd"
  },
  "tizen": {
-  "version": "2.13.18",
-  "url": "tizen-2.13.18.html",
-  "sha256": "9a4713172f712fd91bf236a293a316016477e00046f5b358ef3cf97ba2f84b38"
+  "version": "2.13.19",
+  "url": "tizen-2.13.19.html",
+  "sha256": "595cc86e07a776602a6077fdf166259dd7bf52c2c56f63af9d7bf0c7adf0e1ef"
  },
  "notes": [
-  "Wieder eingeblendete Länder und Gruppen erscheinen sofort"
+  "Länderliste zeigt Live, Filme und Serien je Land; Sichtbar holt ausgeblendete Gruppen zurück"
  ]
 }
