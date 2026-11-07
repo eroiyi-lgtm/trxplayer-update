@@ -1,20 +1,21 @@
 {
- "version": "2.13.25",
+ "version": "2.13.26",
  "code": 21325,
- "apk": "trxplayer-2.13.25.apk",
- "sha256": "c79d3ede558dbcf9558b4065b44c4fb71e97b3660a0abd9800f8a9ed8f79b714",
+ "apk": "trxplayer-2.13.26.apk",
+ "sha256": "e4290303a6f7fb450024a72584719c472a2cc0a69c10158481b76c05d9bd1d9f",
  "web": {
-  "version": "2.13.25",
-  "url": "lg-2.13.25.html",
-  "sha256": "1258f46d255de688f8116b8a639cd77f6119be39a429c76b9e1d70f828d6816c"
+  "version": "2.13.26",
+  "url": "lg-2.13.26.html",
+  "sha256": "30697cc9c3433e0e8d2b91fb1d719293a203b54a3ca296a723687909d2b0d560"
  },
  "tizen": {
-  "version": "2.13.25",
-  "url": "tizen-2.13.25.html",
-  "sha256": "52d29a2a79df547841f45fd42784ca16fae79149a12458a3fa44386b3059c2b4"
+  "version": "2.13.26",
+  "url": "tizen-2.13.26.html",
+  "sha256": "fb6d415c5d84a6e1676054347e0c468fb672750059ead1358f902f5cebf6f696"
  },
  "notes": [
-  "Name „Moxvela Player“ jetzt auch im Ladebildschirm und bei Aufnahme-Hinweisen",
-  "Update-Erkennung für Android repariert"
+  "Neu: Gesehene Folgen haben einen Haken, angefangene einen Balken mit Restzeit",
+  "Neu: OK lang drücken auf einer Folge markiert sie als gesehen oder ungesehen",
+  "Besser: „Weiter“ springt nach einer fertigen Folge zur nächsten"
  ]
 }
