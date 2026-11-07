@@ -1,21 +1,19 @@
 {
- "version": "2.14.0",
+ "version": "2.14.1",
  "code": 21325,
- "apk": "trxplayer-2.14.0.apk",
- "sha256": "7970fcd68cc8a04419a8de7a0f0ebfade9958285f9ed38b0b5db7aa8b41a346d",
+ "apk": "trxplayer-2.14.1.apk",
+ "sha256": "cfd3668ca37d1eeb5409576aa7866bb1d66fe3ea569523026f933ccd7963baa1",
  "web": {
-  "version": "2.14.0",
-  "url": "lg-2.14.0.html",
-  "sha256": "c227cfee6762bfdda2dce9b7d87534aa2fac109d974f2fa30149bf1d11319c2b"
+  "version": "2.14.1",
+  "url": "lg-2.14.1.html",
+  "sha256": "cc4449fd8529dbae7906c2bc56365132d58bf2528c148f2e19382d66a1d87bf1"
  },
  "tizen": {
-  "version": "2.14.0",
-  "url": "tizen-2.14.0.html",
-  "sha256": "9ac42d1b77b1740858031b38f5c61d0ccc746bc7cdf43558e88d281be1da2182"
+  "version": "2.14.1",
+  "url": "tizen-2.14.1.html",
+  "sha256": "0a9256e582705146e72f947875866c1254655282cc33878398e4b5858881b4cd"
  },
  "notes": [
-  "Neu: eigener Stil „Wald“ – Waldgrün, Creme und Sand, neue Schriften, ruhiger Fokus ohne Leuchten",
-  "Besser: Fernbedienung findet überall den richtigen Knopf (aus 2.13.30)",
-  "Alter Look weiter wählbar: Einstellungen → Darstellung → Farbschema"
+  "Neu: Vorschaubild im Live-TV anklickbar – Rechts und OK oder antippen öffnet das Vollbild"
  ]
 }
