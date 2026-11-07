@@ -1,21 +1,20 @@
 {
- "version": "2.13.27",
+ "version": "2.13.28",
  "code": 21325,
- "apk": "trxplayer-2.13.27.apk",
- "sha256": "091c0ff215fbd8412418fb96d5b825b622b517cd880926823fb743eae9e14160",
+ "apk": "trxplayer-2.13.28.apk",
+ "sha256": "6d548b840a121efd4cbd949595c9a7479b7b3ca4df4bba689e76b6e2f7e660ce",
  "web": {
-  "version": "2.13.27",
-  "url": "lg-2.13.27.html",
-  "sha256": "47e838cd9ebd1dfd7321a5ccdf80c65ee1a14fc959c180cc23129570803d175a"
+  "version": "2.13.28",
+  "url": "lg-2.13.28.html",
+  "sha256": "bf9e98eadb40ac9282668c07553c71b0e3e84280059882f69a58dd68ffb430d2"
  },
  "tizen": {
-  "version": "2.13.27",
-  "url": "tizen-2.13.27.html",
-  "sha256": "9140dd10f5a53851ea8a43440b5c6b71ccca2c237481e3df027a983bb1acf998"
+  "version": "2.13.28",
+  "url": "tizen-2.13.28.html",
+  "sha256": "7fec805a04846d3517d36256b2dfbb3445116d0296dc29de2f5c9cc4dc5dd0b3"
  },
  "notes": [
-  "Neu: Langer Balken unter jeder Folge mit Restzeit, gesehene Folgen mit Haken",
-  "Neu: Auswahl der Folgen in Rot",
-  "Besser: Nach dem Zurückgehen aus dem Player steht der Stand sofort da"
+  "Folgen-Auswahl wieder in Mint wie vorher",
+  "Balken, Haken und sofortige Anzeige bleiben"
  ]
 }
