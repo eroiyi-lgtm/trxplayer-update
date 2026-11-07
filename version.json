@@ -1,20 +1,19 @@
 {
- "version": "2.13.29",
+ "version": "2.13.30",
  "code": 21325,
- "apk": "trxplayer-2.13.29.apk",
- "sha256": "e2bd8325473a9de44c163d112b82fd064d4051a1eb5c1d7f2029ba9af782d1ea",
+ "apk": "trxplayer-2.13.30.apk",
+ "sha256": "0485e8dcfa339a9bd88fd6c9d8b1897109844c22b5b5efc60a9a574120fa1038",
  "web": {
-  "version": "2.13.29",
-  "url": "lg-2.13.29.html",
-  "sha256": "74b2267f8a0851b44ea0f9376989944f0b8b73f7953b03dd08bc3f355ae3cf1c"
+  "version": "2.13.30",
+  "url": "lg-2.13.30.html",
+  "sha256": "40b47aa8c421fac5a801f13fd30773a67bb9162352a706dbfa7390b824a4a9cb"
  },
  "tizen": {
-  "version": "2.13.29",
-  "url": "tizen-2.13.29.html",
-  "sha256": "e0748019474ca1dd3c01649842f82465f05cf2e038cf41928dee59ba1f3d295f"
+  "version": "2.13.30",
+  "url": "tizen-2.13.30.html",
+  "sha256": "616bab78f34c66940aa461eab4f1e8a98ba8273b215d23f1cac337774d0abc25"
  },
  "notes": [
-  "Weiterschauen zeigt angefangene Filme und Serien wieder (getrennt unter Filme und Serien)",
-  "Stand wird sofort gespeichert, auch wenn der Fernseher ausgeschaltet wird"
+  "Besser: Fernbedienung kommt in Filme & Serien wieder überall hin (Poster ↔ Länder-Reiter)"
  ]
 }
