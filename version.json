@@ -1,19 +1,21 @@
 {
- "version": "2.13.30",
+ "version": "2.14.0",
  "code": 21325,
- "apk": "trxplayer-2.13.30.apk",
- "sha256": "0485e8dcfa339a9bd88fd6c9d8b1897109844c22b5b5efc60a9a574120fa1038",
+ "apk": "trxplayer-2.14.0.apk",
+ "sha256": "7970fcd68cc8a04419a8de7a0f0ebfade9958285f9ed38b0b5db7aa8b41a346d",
  "web": {
-  "version": "2.13.30",
-  "url": "lg-2.13.30.html",
-  "sha256": "40b47aa8c421fac5a801f13fd30773a67bb9162352a706dbfa7390b824a4a9cb"
+  "version": "2.14.0",
+  "url": "lg-2.14.0.html",
+  "sha256": "c227cfee6762bfdda2dce9b7d87534aa2fac109d974f2fa30149bf1d11319c2b"
  },
  "tizen": {
-  "version": "2.13.30",
-  "url": "tizen-2.13.30.html",
-  "sha256": "616bab78f34c66940aa461eab4f1e8a98ba8273b215d23f1cac337774d0abc25"
+  "version": "2.14.0",
+  "url": "tizen-2.14.0.html",
+  "sha256": "9ac42d1b77b1740858031b38f5c61d0ccc746bc7cdf43558e88d281be1da2182"
  },
  "notes": [
-  "Besser: Fernbedienung kommt in Filme & Serien wieder überall hin (Poster ↔ Länder-Reiter)"
+  "Neu: eigener Stil „Wald“ – Waldgrün, Creme und Sand, neue Schriften, ruhiger Fokus ohne Leuchten",
+  "Besser: Fernbedienung findet überall den richtigen Knopf (aus 2.13.30)",
+  "Alter Look weiter wählbar: Einstellungen → Darstellung → Farbschema"
  ]
 }
