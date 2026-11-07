@@ -1,21 +1,21 @@
 {
- "version": "2.13.26",
+ "version": "2.13.27",
  "code": 21325,
- "apk": "trxplayer-2.13.26.apk",
- "sha256": "e4290303a6f7fb450024a72584719c472a2cc0a69c10158481b76c05d9bd1d9f",
+ "apk": "trxplayer-2.13.27.apk",
+ "sha256": "091c0ff215fbd8412418fb96d5b825b622b517cd880926823fb743eae9e14160",
  "web": {
-  "version": "2.13.26",
-  "url": "lg-2.13.26.html",
-  "sha256": "30697cc9c3433e0e8d2b91fb1d719293a203b54a3ca296a723687909d2b0d560"
+  "version": "2.13.27",
+  "url": "lg-2.13.27.html",
+  "sha256": "47e838cd9ebd1dfd7321a5ccdf80c65ee1a14fc959c180cc23129570803d175a"
  },
  "tizen": {
-  "version": "2.13.26",
-  "url": "tizen-2.13.26.html",
-  "sha256": "fb6d415c5d84a6e1676054347e0c468fb672750059ead1358f902f5cebf6f696"
+  "version": "2.13.27",
+  "url": "tizen-2.13.27.html",
+  "sha256": "9140dd10f5a53851ea8a43440b5c6b71ccca2c237481e3df027a983bb1acf998"
  },
  "notes": [
-  "Neu: Gesehene Folgen haben einen Haken, angefangene einen Balken mit Restzeit",
-  "Neu: OK lang drücken auf einer Folge markiert sie als gesehen oder ungesehen",
-  "Besser: „Weiter“ springt nach einer fertigen Folge zur nächsten"
+  "Neu: Langer Balken unter jeder Folge mit Restzeit, gesehene Folgen mit Haken",
+  "Neu: Auswahl der Folgen in Rot",
+  "Besser: Nach dem Zurückgehen aus dem Player steht der Stand sofort da"
  ]
 }
