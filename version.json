@@ -1,20 +1,20 @@
 {
- "version": "2.13.28",
+ "version": "2.13.29",
  "code": 21325,
- "apk": "trxplayer-2.13.28.apk",
- "sha256": "6d548b840a121efd4cbd949595c9a7479b7b3ca4df4bba689e76b6e2f7e660ce",
+ "apk": "trxplayer-2.13.29.apk",
+ "sha256": "e2bd8325473a9de44c163d112b82fd064d4051a1eb5c1d7f2029ba9af782d1ea",
  "web": {
-  "version": "2.13.28",
-  "url": "lg-2.13.28.html",
-  "sha256": "bf9e98eadb40ac9282668c07553c71b0e3e84280059882f69a58dd68ffb430d2"
+  "version": "2.13.29",
+  "url": "lg-2.13.29.html",
+  "sha256": "74b2267f8a0851b44ea0f9376989944f0b8b73f7953b03dd08bc3f355ae3cf1c"
  },
  "tizen": {
-  "version": "2.13.28",
-  "url": "tizen-2.13.28.html",
-  "sha256": "7fec805a04846d3517d36256b2dfbb3445116d0296dc29de2f5c9cc4dc5dd0b3"
+  "version": "2.13.29",
+  "url": "tizen-2.13.29.html",
+  "sha256": "e0748019474ca1dd3c01649842f82465f05cf2e038cf41928dee59ba1f3d295f"
  },
  "notes": [
-  "Folgen-Auswahl wieder in Mint wie vorher",
-  "Balken, Haken und sofortige Anzeige bleiben"
+  "Weiterschauen zeigt angefangene Filme und Serien wieder (getrennt unter Filme und Serien)",
+  "Stand wird sofort gespeichert, auch wenn der Fernseher ausgeschaltet wird"
  ]
 }
