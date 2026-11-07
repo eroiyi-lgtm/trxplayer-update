@@ -1,20 +1,20 @@
 {
- "version": "2.13.23",
- "code": 20909,
- "apk": "trxplayer-2.13.23.apk",
- "sha256": "d593b9c9352cf8b6ff12848e20847e5920a4c955de4288917bca2aefaf382b82",
+ "version": "2.13.24",
+ "code": 20910,
+ "apk": "trxplayer-2.13.24.apk",
+ "sha256": "eee434b65404901c6e25ea8548ecb5f1e0a6979555a18af8367723a1e8bb357d",
  "web": {
-  "version": "2.13.23",
-  "url": "lg-2.13.23.html",
-  "sha256": "94db8d7c4944fc1d92be628241644d074a311ce38667dcc28c7adb059f164b28"
+  "version": "2.13.24",
+  "url": "lg-2.13.24.html",
+  "sha256": "65a97aebed204e3e9920383aaad5751a2ccb405ef1cd1e8738e50ab362d9dd70"
  },
  "tizen": {
-  "version": "2.13.23",
-  "url": "tizen-2.13.23.html",
-  "sha256": "9e9974f4d0b0c7e3e1a0e31a3dccbe1bc3b0b62988bc7f27d06eff68183873b3"
+  "version": "2.13.24",
+  "url": "tizen-2.13.24.html",
+  "sha256": "2ef9a7b4b7fb4a8a303e89f3785d9f3b8b2e5141fe8e1e9663f2a92e01dab732"
  },
  "notes": [
-  "Besser: Zurück schließt bei offener Tastatur nur die Tastatur (Konto-Eingabe, Suche, alle Felder) – Handy und TV",
-  "Besser: Löschtaste im leeren Feld springt nicht mehr zurück"
+  "Neuer Name: Moxvela Player mit neuem Logo",
+  "Neues App-Symbol und TV-Banner"
  ]
 }

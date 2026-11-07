@@ -1,4 +1,4 @@
-# Datenschutzerklärung für die App „TrxPlayer“
+# Datenschutzerklärung für die App „Moxvela Player“
 
 Stand: 5. November 2026
 
@@ -12,7 +12,7 @@ E-Mail: eroll.sdk@hotmail.com
 
 ## 2. Kurz gesagt
 
-TrxPlayer ist ein reiner Abspieler (Player). Die App enthält **keine** Sender, Filme oder Serien und verkauft keine Inhalte. Du trägst selbst die Zugangsdaten deines eigenen Anbieters ein (M3U-Link, Xtream-Zugang oder Portal).
+Moxvela Player ist ein reiner Abspieler (Player). Die App enthält **keine** Sender, Filme oder Serien und verkauft keine Inhalte. Du trägst selbst die Zugangsdaten deines eigenen Anbieters ein (M3U-Link, Xtream-Zugang oder Portal).
 
 - Es gibt **kein Nutzerkonto** bei uns und keine Registrierung.
 - Deine Playlists, Zugangsdaten, Favoriten, Profile und Einstellungen werden **nur auf deinem Gerät** gespeichert.
@@ -67,4 +67,4 @@ Wir passen diese Erklärung an, wenn sich die App ändert. Es gilt die jeweils h
 
 ## Privacy Policy (English summary)
 
-TrxPlayer is a media player only; it contains no channels or content. There is no user account, no advertising, no tracking and no analytics. Playlists, credentials, favourites and settings are stored **only on your device**. The app connects directly to the provider you enter. Purchases are handled entirely by Google Play. When you open a title or actor page, the title/name is sent to our server (Netlify, USA) to fetch descriptions and photos from Wikipedia/Wikimedia; trailers load from YouTube only when you start one. Controller: Eroll Sadiku, Bergstr. 35, 89168 Niederstotzingen, Germany, eroll.sdk@hotmail.com. You have the rights under Art. 15–21 GDPR; contact us at the email above.
+Moxvela Player is a media player only; it contains no channels or content. There is no user account, no advertising, no tracking and no analytics. Playlists, credentials, favourites and settings are stored **only on your device**. The app connects directly to the provider you enter. Purchases are handled entirely by Google Play. When you open a title or actor page, the title/name is sent to our server (Netlify, USA) to fetch descriptions and photos from Wikipedia/Wikimedia; trailers load from YouTube only when you start one. Controller: Eroll Sadiku, Bergstr. 35, 89168 Niederstotzingen, Germany, eroll.sdk@hotmail.com. You have the rights under Art. 15–21 GDPR; contact us at the email above.
