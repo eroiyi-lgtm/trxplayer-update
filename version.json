@@ -1,21 +1,21 @@
 {
- "version": "2.14.2",
+ "version": "2.14.3",
  "code": 21325,
- "apk": "trxplayer-2.14.2.apk",
- "sha256": "160c5ff7683e0606ea20ce6999c75cf728685996bb095e0f3cdd307804edd3cc",
+ "apk": "trxplayer-2.14.3.apk",
+ "sha256": "951e4806d3974cf1a3071148be629f0b94a00a4291ec3af7b7b647389a1385d7",
  "web": {
-  "version": "2.14.2",
-  "url": "lg-2.14.2.html",
-  "sha256": "87c60753803a80a36c37052a5252b28acad9a946d9a2a3acb7471c4a1af1bf0c"
+  "version": "2.14.3",
+  "url": "lg-2.14.3.html",
+  "sha256": "35c6b3eff99a5c8929d432a75d1a6411440e1966a671b36e961fd56adab42c71"
  },
  "tizen": {
-  "version": "2.14.2",
-  "url": "tizen-2.14.2.html",
-  "sha256": "46456c1557515c6ac394eb932ed772b468658d7b4b60b9d8bac0167df595164e"
+  "version": "2.14.3",
+  "url": "tizen-2.14.3.html",
+  "sha256": "36087fe5c5339b3e02df44ed1918c3f48c11a5238746cc0a1976c5a2a66d80eb"
  },
  "notes": [
-  "Neu: Große Playlists laden deutlich schneller – die App liest schon während des Downloads und stockt nicht mehr.",
-  "Neu: Länder laden – bei großen Playlists wählst du einmal, welche Länder geladen werden (später unter Einstellungen → Sender → Länder laden änderbar).",
-  "Neu: Ladekarte unten rechts – Live-TV ist sofort da, Filme und Serien laden sichtbar nach."
+  "Schneller Start: großer Playlist-Stand wird sofort gespeichert, auch wenn die Länderfrage noch offen ist.",
+  "Beim Laden siehst du jetzt, wie viele MB schon da sind – die Warnung „dauert ungewöhnlich lange“ kommt nur noch, wenn wirklich nichts weitergeht.",
+  "Sicherer: hängt die Hintergrund-Verarbeitung, liest die App nach 10 Sekunden auf dem alten Weg weiter."
  ]
 }
