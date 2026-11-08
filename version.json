@@ -1,19 +1,21 @@
 {
- "version": "2.14.1",
+ "version": "2.14.2",
  "code": 21325,
- "apk": "trxplayer-2.14.1.apk",
- "sha256": "cfd3668ca37d1eeb5409576aa7866bb1d66fe3ea569523026f933ccd7963baa1",
+ "apk": "trxplayer-2.14.2.apk",
+ "sha256": "160c5ff7683e0606ea20ce6999c75cf728685996bb095e0f3cdd307804edd3cc",
  "web": {
-  "version": "2.14.1",
-  "url": "lg-2.14.1.html",
-  "sha256": "cc4449fd8529dbae7906c2bc56365132d58bf2528c148f2e19382d66a1d87bf1"
+  "version": "2.14.2",
+  "url": "lg-2.14.2.html",
+  "sha256": "87c60753803a80a36c37052a5252b28acad9a946d9a2a3acb7471c4a1af1bf0c"
  },
  "tizen": {
-  "version": "2.14.1",
-  "url": "tizen-2.14.1.html",
-  "sha256": "0a9256e582705146e72f947875866c1254655282cc33878398e4b5858881b4cd"
+  "version": "2.14.2",
+  "url": "tizen-2.14.2.html",
+  "sha256": "46456c1557515c6ac394eb932ed772b468658d7b4b60b9d8bac0167df595164e"
  },
  "notes": [
-  "Neu: Vorschaubild im Live-TV anklickbar – Rechts und OK oder antippen öffnet das Vollbild"
+  "Neu: Große Playlists laden deutlich schneller – die App liest schon während des Downloads und stockt nicht mehr.",
+  "Neu: Länder laden – bei großen Playlists wählst du einmal, welche Länder geladen werden (später unter Einstellungen → Sender → Länder laden änderbar).",
+  "Neu: Ladekarte unten rechts – Live-TV ist sofort da, Filme und Serien laden sichtbar nach."
  ]
 }
