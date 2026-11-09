@@ -1,19 +1,19 @@
 {
- "version": "2.14.7",
+ "version": "2.14.9",
  "code": 21325,
- "apk": "trxplayer-2.14.7.apk",
- "sha256": "4a29c7b0ad15f8b06dcc881b2d2c79ae51290c3cb4d3ccc1cfd6ab4e73104d12",
+ "apk": "trxplayer-2.14.9.apk",
+ "sha256": "a1f86d00d8252f588e26854502382bba73b32cc57ebbd9e019b71217698062cc",
  "web": {
-  "version": "2.14.7",
-  "url": "lg-2.14.7.html",
-  "sha256": "22ac15acdc031df03738349cfc76a470d065978bfe3855262c756c74e52c0b6d"
+  "version": "2.14.9",
+  "url": "lg-2.14.9.html",
+  "sha256": "9e3b000b44ac219d363de738a4d55f144814b8714c120216541231c9c9c17a64"
  },
  "tizen": {
-  "version": "2.14.7",
-  "url": "tizen-2.14.7.html",
-  "sha256": "4e1f18710dcd4900063221056aacec2861c3600a6c4ebc07b2cd038116e40c19"
+  "version": "2.14.9",
+  "url": "tizen-2.14.9.html",
+  "sha256": "14416522f4d6ba3053e353690efb820b28e9dbb6ae1d44c62e94413f2b55eb63"
  },
  "notes": [
-  "Handy: Live-TV-Bild wird im Vollbild nicht mehr vom leeren Abspielfenster verdeckt."
+  "Schneller Start: Nach dem Anmelden ist Live-TV sofort bereit, Filme und Serien laden im Hintergrund nach."
  ]
 }
