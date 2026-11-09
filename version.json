@@ -1,20 +1,21 @@
 {
- "version": "2.14.4",
+ "version": "2.14.5",
  "code": 21325,
- "apk": "trxplayer-2.14.4.apk",
- "sha256": "14c93720153f1277966b89cc0748f4c0ddcef44d888adf8b98ca5f4576ca7beb",
+ "apk": "trxplayer-2.14.5.apk",
+ "sha256": "62e2414dfd9012c2bce9a09dc8be17f8273777efd0cd5e08fef26b3b81f3f5b2",
  "web": {
-  "version": "2.14.4",
-  "url": "lg-2.14.4.html",
-  "sha256": "18b5e24f5adea253a57f8b3fa4f1f2774d3bf7935975d06a0d1750000dd35433"
+  "version": "2.14.5",
+  "url": "lg-2.14.5.html",
+  "sha256": "f77d8faf4dbd30dc8d30287c75c1fd6f9ee9e4604d4b4d44f27bc1752d988364"
  },
  "tizen": {
-  "version": "2.14.4",
-  "url": "tizen-2.14.4.html",
-  "sha256": "2d9b02edb072e85b8c282854c16befa18141c9237ec2e194ad66e74b49c3ca65"
+  "version": "2.14.5",
+  "url": "tizen-2.14.5.html",
+  "sha256": "cd12af18d351444e6f7e5862e2db6ef570c531271cea0219f749b6b586667a5b"
  },
  "notes": [
-  "Handy: Uhr und Glocke passen hochkant wieder auf die Startseite.",
-  "Handy: Kommt bei einem Sender nur Ton ohne Bild, wechselt die App schneller zum zweiten Player und sagt dir sonst klar, woran es liegt."
+  "Lädt viel schneller: Ein M3U-Link deines Anbieters (get.php) wird automatisch über die schnelle Xtream-Verbindung geladen.",
+  "Kann ein Anbieter kein https, nimmt die App automatisch http.",
+  "Große M3U-Listen werden nicht mehr bei jedem Start im Hintergrund neu geladen und stören beim Fernsehen nicht mehr."
  ]
 }
