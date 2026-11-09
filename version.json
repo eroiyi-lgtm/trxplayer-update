@@ -1,21 +1,19 @@
 {
- "version": "2.14.5",
+ "version": "2.14.6",
  "code": 21325,
- "apk": "trxplayer-2.14.5.apk",
- "sha256": "62e2414dfd9012c2bce9a09dc8be17f8273777efd0cd5e08fef26b3b81f3f5b2",
+ "apk": "trxplayer-2.14.6.apk",
+ "sha256": "03d39770afe125501b3f4ff41930e5ca7ed9bfb4d560f2b471f864f860c1d9fe",
  "web": {
-  "version": "2.14.5",
-  "url": "lg-2.14.5.html",
-  "sha256": "f77d8faf4dbd30dc8d30287c75c1fd6f9ee9e4604d4b4d44f27bc1752d988364"
+  "version": "2.14.6",
+  "url": "lg-2.14.6.html",
+  "sha256": "b06b6c40d57a3a21a778b7d21d0bcf8f131f0d64f890205b8a1bda7ebc8fb264"
  },
  "tizen": {
-  "version": "2.14.5",
-  "url": "tizen-2.14.5.html",
-  "sha256": "cd12af18d351444e6f7e5862e2db6ef570c531271cea0219f749b6b586667a5b"
+  "version": "2.14.6",
+  "url": "tizen-2.14.6.html",
+  "sha256": "3babf96a5ca9a8f37e7a0d41fd5ac8c417cc33c6460cfcbeb223b0951a5fa97c"
  },
  "notes": [
-  "Lädt viel schneller: Ein M3U-Link deines Anbieters (get.php) wird automatisch über die schnelle Xtream-Verbindung geladen.",
-  "Kann ein Anbieter kein https, nimmt die App automatisch http.",
-  "Große M3U-Listen werden nicht mehr bei jedem Start im Hintergrund neu geladen und stören beim Fernsehen nicht mehr."
+  "Handy: Live-TV zeigt im Vollbild wieder sofort das Bild (vorher bei manchen Handys nur Ton, bis man zurück ging oder den Sender wechselte)."
  ]
 }
