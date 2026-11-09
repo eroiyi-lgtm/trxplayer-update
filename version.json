@@ -1,19 +1,19 @@
 {
- "version": "2.14.6",
+ "version": "2.14.7",
  "code": 21325,
- "apk": "trxplayer-2.14.6.apk",
- "sha256": "03d39770afe125501b3f4ff41930e5ca7ed9bfb4d560f2b471f864f860c1d9fe",
+ "apk": "trxplayer-2.14.7.apk",
+ "sha256": "4a29c7b0ad15f8b06dcc881b2d2c79ae51290c3cb4d3ccc1cfd6ab4e73104d12",
  "web": {
-  "version": "2.14.6",
-  "url": "lg-2.14.6.html",
-  "sha256": "b06b6c40d57a3a21a778b7d21d0bcf8f131f0d64f890205b8a1bda7ebc8fb264"
+  "version": "2.14.7",
+  "url": "lg-2.14.7.html",
+  "sha256": "22ac15acdc031df03738349cfc76a470d065978bfe3855262c756c74e52c0b6d"
  },
  "tizen": {
-  "version": "2.14.6",
-  "url": "tizen-2.14.6.html",
-  "sha256": "3babf96a5ca9a8f37e7a0d41fd5ac8c417cc33c6460cfcbeb223b0951a5fa97c"
+  "version": "2.14.7",
+  "url": "tizen-2.14.7.html",
+  "sha256": "4e1f18710dcd4900063221056aacec2861c3600a6c4ebc07b2cd038116e40c19"
  },
  "notes": [
-  "Handy: Live-TV zeigt im Vollbild wieder sofort das Bild (vorher bei manchen Handys nur Ton, bis man zurück ging oder den Sender wechselte)."
+  "Handy: Live-TV-Bild wird im Vollbild nicht mehr vom leeren Abspielfenster verdeckt."
  ]
 }
