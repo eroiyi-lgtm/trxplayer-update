@@ -1,19 +1,23 @@
 {
- "version": "2.14.9",
- "code": 21325,
- "apk": "trxplayer-2.14.9.apk",
- "sha256": "a1f86d00d8252f588e26854502382bba73b32cc57ebbd9e019b71217698062cc",
+ "version": "2.14.11",
+ "code": 21410,
+ "apk": "trxplayer-2.14.11.apk",
+ "sha256": "65fccb88dd814fef59d32768a3b4dee39aeed8d8fff8c4f44282bd8da9e867ad",
  "web": {
-  "version": "2.14.9",
-  "url": "lg-2.14.9.html",
-  "sha256": "9e3b000b44ac219d363de738a4d55f144814b8714c120216541231c9c9c17a64"
+  "version": "2.14.11",
+  "url": "lg-2.14.11.html",
+  "sha256": "b3d11060ee39867ad49246457e6ea94c8fe7b4e884876b2b0cebc97dab5dba33"
  },
  "tizen": {
-  "version": "2.14.9",
-  "url": "tizen-2.14.9.html",
-  "sha256": "14416522f4d6ba3053e353690efb820b28e9dbb6ae1d44c62e94413f2b55eb63"
+  "version": "2.14.11",
+  "url": "tizen-2.14.11.html",
+  "sha256": "050787e55789a890f6dac26403d44a6d527ba88ba4071c711188637c666ff072"
  },
  "notes": [
-  "Schneller Start: Nach dem Anmelden ist Live-TV sofort bereit, Filme und Serien laden im Hintergrund nach."
+  "Neu: heller Stil „Leinen“ (dunkles „Wald“ weiter unter Einstellungen → Farbschema)",
+  "Neu: Leiste oben auf Filme und Serien wie auf der Startseite",
+  "Neu: größere Poster (5 pro Reihe)",
+  "Neu: App-Symbol",
+  "Besser: gewählter Hintergrund wird wieder angezeigt"
  ]
 }
