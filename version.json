@@ -1,23 +1,20 @@
 {
- "version": "2.14.15",
+ "version": "2.14.16",
  "code": 21410,
- "apk": "trxplayer-2.14.15.apk",
- "sha256": "a018ac9192b715477c1a0316ea4581d4fc6962d78a234fec354b53a0ef47c84e",
+ "apk": "trxplayer-2.14.16.apk",
+ "sha256": "ed317a287898110d6db18018f2ef1ad99932425a0140b17f019b40b8cd95b5ff",
  "web": {
-  "version": "2.14.15",
-  "url": "lg-2.14.15.html",
-  "sha256": "83ee98d4273990e0d4e5d83b8a075fea550f390ab4f654352436c72ae0d1a812"
+  "version": "2.14.16",
+  "url": "lg-2.14.16.html",
+  "sha256": "f449c1137ae3f7ae8f1bcbdfca987e3cf919af761dc42f36f5465a618fd38f19"
  },
  "tizen": {
-  "version": "2.14.15",
-  "url": "tizen-2.14.15.html",
-  "sha256": "e5e481b611acbe04d4d9a0e9af2aecebb1648e0e253b763f8fcc2152f2f88c51"
+  "version": "2.14.16",
+  "url": "tizen-2.14.16.html",
+  "sha256": "7f6a158f5262a3e572eb4dfe659dd217898b730bf4b0c80337b8027af4aff833"
  },
  "notes": [
-  "Besser: Suche viel schneller, auch bei sehr großen Listen",
-  "Besser: flüssigeres Blättern im Live-TV",
-  "Neu: am Fernseher kein kleines Vorschaufenster mehr – OK startet gleich das Vollbild",
-  "Neu: größere Schrift am Fernseher",
-  "Behoben: Sender, die in älteren Versionen liefen, starten wieder zuverlässig"
+  "Neu: Startseite ohne Reihe „Zuletzt gesehene Sender“",
+  "Besser: TV-Schrift und Abstände angepasst, 5 Poster pro Reihe"
  ]
 }
