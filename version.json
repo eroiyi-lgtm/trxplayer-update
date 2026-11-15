@@ -1,20 +1,20 @@
 {
- "version": "2.14.16",
+ "version": "2.14.17",
  "code": 21410,
- "apk": "trxplayer-2.14.16.apk",
- "sha256": "ed317a287898110d6db18018f2ef1ad99932425a0140b17f019b40b8cd95b5ff",
+ "apk": "trxplayer-2.14.17.apk",
+ "sha256": "16763cd354df54ed4af7dd8192abd504bb5d5b08ea8205f2597d703d00072326",
  "web": {
-  "version": "2.14.16",
-  "url": "lg-2.14.16.html",
-  "sha256": "f449c1137ae3f7ae8f1bcbdfca987e3cf919af761dc42f36f5465a618fd38f19"
+  "version": "2.14.17",
+  "url": "lg-2.14.17.html",
+  "sha256": "395202e4dc60a11219b508980b61f8c7c42709f1649f23fa221a42fdbdd16b2d"
  },
  "tizen": {
-  "version": "2.14.16",
-  "url": "tizen-2.14.16.html",
-  "sha256": "7f6a158f5262a3e572eb4dfe659dd217898b730bf4b0c80337b8027af4aff833"
+  "version": "2.14.17",
+  "url": "tizen-2.14.17.html",
+  "sha256": "5fc4e2971f6b9cce6ec6e25f5a32a03b0be3c200e176e67a857d87d5337f4969"
  },
  "notes": [
-  "Neu: Startseite ohne Reihe „Zuletzt gesehene Sender“",
-  "Besser: TV-Schrift und Abstände angepasst, 5 Poster pro Reihe"
+  "Besser: Vorschau-Banner bei Filme und Serien kleiner",
+  "Besser: Startseite am TV kompakter, alles passt aufs Bild"
  ]
 }
