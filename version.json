@@ -1,20 +1,21 @@
 {
- "version": "2.14.17",
+ "version": "2.14.18",
  "code": 21410,
- "apk": "trxplayer-2.14.17.apk",
- "sha256": "16763cd354df54ed4af7dd8192abd504bb5d5b08ea8205f2597d703d00072326",
+ "apk": "trxplayer-2.14.18.apk",
+ "sha256": "88ec725a58aa4245f4b7fd503d1d3b275125f5f44dafcc26e95f1f8c0c922277",
  "web": {
-  "version": "2.14.17",
-  "url": "lg-2.14.17.html",
-  "sha256": "395202e4dc60a11219b508980b61f8c7c42709f1649f23fa221a42fdbdd16b2d"
+  "version": "2.14.18",
+  "url": "lg-2.14.18.html",
+  "sha256": "36cd122c84b1898aee13b2df806c45a3b441cf610db7d6eee16e398b3db9eaa1"
  },
  "tizen": {
-  "version": "2.14.17",
-  "url": "tizen-2.14.17.html",
-  "sha256": "5fc4e2971f6b9cce6ec6e25f5a32a03b0be3c200e176e67a857d87d5337f4969"
+  "version": "2.14.18",
+  "url": "tizen-2.14.18.html",
+  "sha256": "f4746cedb4a41449bf441e008d31245a80f33667a8983cdc1943d470ce569dde"
  },
  "notes": [
-  "Besser: Vorschau-Banner bei Filme und Serien kleiner",
-  "Besser: Startseite am TV kompakter, alles passt aufs Bild"
+  "Neu: Vorschau bei Filme und Serien als weicher Hintergrund",
+  "Neu: 4 weitere helle Farben (Nebel, Salbei, Rosé, Lavendel)",
+  "Besser: kleinere Poster, Startleisten schmaler, dunklere Schrift im hellen Stil"
  ]
 }
