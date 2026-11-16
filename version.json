@@ -1,21 +1,20 @@
 {
- "version": "2.14.20",
+ "version": "2.14.21",
  "code": 21410,
- "apk": "trxplayer-2.14.20.apk",
- "sha256": "d34217bc747f721803cc88020af1c0af59b11d4da4dfaf22f72b6d6fca6c8caa",
+ "apk": "trxplayer-2.14.21.apk",
+ "sha256": "9f2cc187c7b5c8102b840226a5c73076fa35531af3245d1b539a5f5e6353e4c1",
  "web": {
-  "version": "2.14.20",
-  "url": "lg-2.14.20.html",
-  "sha256": "5567915db7f75524fa87baff5e5524cb54a537ed943bd3cf1aaec6c6a86404aa"
+  "version": "2.14.21",
+  "url": "lg-2.14.21.html",
+  "sha256": "7bb59ff70afc770b0541aed0b35ee648ec3289ef5fbf88f96998b31790f383b7"
  },
  "tizen": {
-  "version": "2.14.20",
-  "url": "tizen-2.14.20.html",
-  "sha256": "44ad280bb308e4cb5ff93bc323be3bd2e6a82d1677521baad55205c26b19c91e"
+  "version": "2.14.21",
+  "url": "tizen-2.14.21.html",
+  "sha256": "67cfb32d82e26eca1f483abe00d53b3181c71578f4bf032054973a123b51b9c8"
  },
  "notes": [
-  "Neu: Filme und Serien mit großem Banner über die volle Breite",
-  "Besser: klarere Schrift, größere Startfelder, kleinere Menüleiste",
-  "Geändert: Design Wald, Hintergründe aufgeräumt"
+  "Neu: Hintergründe Weltall, Erdrand und Vollmond mit echten NASA-Fotos",
+  "Neu: Horror mit Blutmond, Weihnachten mit Schneeflocken"
  ]
 }
