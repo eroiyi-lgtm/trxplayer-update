@@ -1,21 +1,21 @@
 {
- "version": "2.14.19",
+ "version": "2.14.20",
  "code": 21410,
- "apk": "trxplayer-2.14.19.apk",
- "sha256": "3eb7d9c69a141df5f7e897d02231a51d815df746d3728eec8123b1732f33c4ee",
+ "apk": "trxplayer-2.14.20.apk",
+ "sha256": "d34217bc747f721803cc88020af1c0af59b11d4da4dfaf22f72b6d6fca6c8caa",
  "web": {
-  "version": "2.14.19",
-  "url": "lg-2.14.19.html",
-  "sha256": "0721fb444c86e22c373e6eb3967d6289e89ab1021765aa1bbcc6190a5d4f12f4"
+  "version": "2.14.20",
+  "url": "lg-2.14.20.html",
+  "sha256": "5567915db7f75524fa87baff5e5524cb54a537ed943bd3cf1aaec6c6a86404aa"
  },
  "tizen": {
-  "version": "2.14.19",
-  "url": "tizen-2.14.19.html",
-  "sha256": "efae9efcb4e2221e3e7cc547bce3e86d20483d271fdeb27b7b409472ff762233"
+  "version": "2.14.20",
+  "url": "tizen-2.14.20.html",
+  "sha256": "44ad280bb308e4cb5ff93bc323be3bd2e6a82d1677521baad55205c26b19c91e"
  },
  "notes": [
-  "Neu: Live-TV am TV wieder mit Vorschaufenster (OK = Vorschau, OK erneut = Vollbild)",
-  "Neu: Filme und Serien mit Vorschaubild als Hintergrund, Leiste wie Live-TV",
-  "Geändert: Farbschemata – Wald und helle Farben (alte dunkle werden zu Wald)"
+  "Neu: Filme und Serien mit großem Banner über die volle Breite",
+  "Besser: klarere Schrift, größere Startfelder, kleinere Menüleiste",
+  "Geändert: Design Wald, Hintergründe aufgeräumt"
  ]
 }
