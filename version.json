@@ -1,20 +1,20 @@
 {
- "version": "2.14.21",
+ "version": "2.14.22",
  "code": 21410,
- "apk": "trxplayer-2.14.21.apk",
- "sha256": "9f2cc187c7b5c8102b840226a5c73076fa35531af3245d1b539a5f5e6353e4c1",
+ "apk": "trxplayer-2.14.22.apk",
+ "sha256": "2f56587e896daeb9da379083be49a031598d6d9430c484c9f5ce288fd21cb24b",
  "web": {
-  "version": "2.14.21",
-  "url": "lg-2.14.21.html",
-  "sha256": "7bb59ff70afc770b0541aed0b35ee648ec3289ef5fbf88f96998b31790f383b7"
+  "version": "2.14.22",
+  "url": "lg-2.14.22.html",
+  "sha256": "b881459f72ab8af35e6d2bd73326c7658e9b207f34d8a9997ba4ee3b08f7ef6a"
  },
  "tizen": {
-  "version": "2.14.21",
-  "url": "tizen-2.14.21.html",
-  "sha256": "67cfb32d82e26eca1f483abe00d53b3181c71578f4bf032054973a123b51b9c8"
+  "version": "2.14.22",
+  "url": "tizen-2.14.22.html",
+  "sha256": "ce0f05f659ada5af891194be4d1206c97d3571c3dde6fe0f2c8b0a23734db80e"
  },
  "notes": [
-  "Neu: Hintergründe Weltall, Erdrand und Vollmond mit echten NASA-Fotos",
-  "Neu: Horror mit Blutmond, Weihnachten mit Schneeflocken"
+  "Neu: Tastatur öffnet sich am TV erst mit OK",
+  "Besser: Senderliste am TV kompakter, Favoriten als gelbe Flagge"
  ]
 }
