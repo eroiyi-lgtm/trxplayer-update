@@ -1,21 +1,20 @@
 {
- "version": "2.14.23",
+ "version": "2.14.24",
  "code": 21423,
- "apk": "trxplayer-2.14.23.apk",
- "sha256": "0f420ff336bf749a9ef3053896efcba0d9269c873ae475cadfed110e6b036f3f",
+ "apk": "trxplayer-2.14.24.apk",
+ "sha256": "c8ea017822152ddb0520b077b32f6e3810aa0704df637127f4ba11fbb1411cad",
  "web": {
-  "version": "2.14.23",
-  "url": "lg-2.14.23.html",
-  "sha256": "cac873db8139babcfb0811e34a6f6e7c81e8f466925a52b32f6758935dce8bb8"
+  "version": "2.14.24",
+  "url": "lg-2.14.24.html",
+  "sha256": "1a963257a7184f324410b787775125e365efceffb3fcff3352c2746d95ac5352"
  },
  "tizen": {
-  "version": "2.14.23",
-  "url": "tizen-2.14.23.html",
-  "sha256": "41d1094d0edb0b2981595dacb4da3c763aadb02b674eaf5b30b39ca63d833a35"
+  "version": "2.14.24",
+  "url": "tizen-2.14.24.html",
+  "sha256": "076f5e2fc468537195890b82ec85d0b80e3867ca0f333ad89f59b79abf3dc154"
  },
  "notes": [
-  "Neu: App auf Englisch (Einstellungen → Darstellung → Sprache · Language)",
-  "Neu: Sprachsuche in der Gerätesprache",
-  "Hinweis: einmal neu installieren (Android fragt „Installieren?“)"
+  "Neu: Filme und Serien am TV – Banner klappt beim Runtergehen weg, zwei ganze Posterreihen",
+  "Besser: flüssigeres Hoch- und Runterblättern"
  ]
 }
