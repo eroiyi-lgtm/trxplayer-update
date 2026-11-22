@@ -1,20 +1,19 @@
 {
- "version": "2.14.24",
+ "version": "2.14.25",
  "code": 21423,
- "apk": "trxplayer-2.14.24.apk",
- "sha256": "c8ea017822152ddb0520b077b32f6e3810aa0704df637127f4ba11fbb1411cad",
+ "apk": "trxplayer-2.14.25.apk",
+ "sha256": "231f3257d3e8b7a01650601c714558c915a552094dd2d7eaeeab8186381886c0",
  "web": {
-  "version": "2.14.24",
-  "url": "lg-2.14.24.html",
-  "sha256": "1a963257a7184f324410b787775125e365efceffb3fcff3352c2746d95ac5352"
+  "version": "2.14.25",
+  "url": "lg-2.14.25.html",
+  "sha256": "a0e7f5741304c8d130d078767e5c7f91b70f1ac1933327d4129b9f1e0d6411cd"
  },
  "tizen": {
-  "version": "2.14.24",
-  "url": "tizen-2.14.24.html",
-  "sha256": "076f5e2fc468537195890b82ec85d0b80e3867ca0f333ad89f59b79abf3dc154"
+  "version": "2.14.25",
+  "url": "tizen-2.14.25.html",
+  "sha256": "105d1c0cf970c6e5ae350b41b6a7f6ea5c1f1a1d87e2eacfa405dee7b0a3108b"
  },
  "notes": [
-  "Neu: Filme und Serien am TV – Banner klappt beim Runtergehen weg, zwei ganze Posterreihen",
-  "Besser: flüssigeres Hoch- und Runterblättern"
+  "Neu: Filme und Serien am TV – OK zeigt das Banner, zweites OK öffnet die Filmseite"
  ]
 }
