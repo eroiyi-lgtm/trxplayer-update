@@ -1,19 +1,19 @@
 {
- "version": "2.14.27",
+ "version": "2.14.28",
  "code": 21427,
- "apk": "trxplayer-2.14.27.apk",
- "sha256": "0fce444fcdb1d667e707ea16555905f12bca552ee96a89cbe09317817aed41b2",
+ "apk": "trxplayer-2.14.28.apk",
+ "sha256": "3fbc9f707c6d019f4d685dc3d79c62ba031fa80bd68e2e832a273a468c31f439",
  "web": {
-  "version": "2.14.27",
-  "url": "lg-2.14.27.html",
-  "sha256": "f69fbaba909dd7efa88f05a12dffaace09da78cf27e73acd3a46ebd38b84eefb"
+  "version": "2.14.28",
+  "url": "lg-2.14.28.html",
+  "sha256": "61d377d30a6b4ea835b0db55c72dbb61dba4c4103d32affd926a8e01fabdfdab"
  },
  "tizen": {
-  "version": "2.14.27",
-  "url": "tizen-2.14.27.html",
-  "sha256": "77c0f31e8ca3caac6a9695c12a422b248591b743bf5dc7f8dc4aba4e5a18dd6a"
+  "version": "2.14.28",
+  "url": "tizen-2.14.28.html",
+  "sha256": "960e1ae3c775918a066eb022ea16ba14da22ea1b3c61d883369067a6051a6098"
  },
  "notes": [
-  "Neu: Untertitel-Menü, Schlaf-Timer, Radio, Datei-Auswahl; Filme/Serien am TV mit 6 Postern und flüssigerem Blättern"
+  "Neu: Länderflaggen, Tier-Profilbilder, Untertitel online suchen, neues Start-Logo, Handy-Live-TV mit Bild oben, schneller"
  ]
 }
