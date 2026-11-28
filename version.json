@@ -1,19 +1,19 @@
 {
- "version": "2.14.25",
- "code": 21423,
- "apk": "trxplayer-2.14.25.apk",
- "sha256": "231f3257d3e8b7a01650601c714558c915a552094dd2d7eaeeab8186381886c0",
+ "version": "2.14.27",
+ "code": 21427,
+ "apk": "trxplayer-2.14.27.apk",
+ "sha256": "0fce444fcdb1d667e707ea16555905f12bca552ee96a89cbe09317817aed41b2",
  "web": {
-  "version": "2.14.25",
-  "url": "lg-2.14.25.html",
-  "sha256": "a0e7f5741304c8d130d078767e5c7f91b70f1ac1933327d4129b9f1e0d6411cd"
+  "version": "2.14.27",
+  "url": "lg-2.14.27.html",
+  "sha256": "f69fbaba909dd7efa88f05a12dffaace09da78cf27e73acd3a46ebd38b84eefb"
  },
  "tizen": {
-  "version": "2.14.25",
-  "url": "tizen-2.14.25.html",
-  "sha256": "105d1c0cf970c6e5ae350b41b6a7f6ea5c1f1a1d87e2eacfa405dee7b0a3108b"
+  "version": "2.14.27",
+  "url": "tizen-2.14.27.html",
+  "sha256": "77c0f31e8ca3caac6a9695c12a422b248591b743bf5dc7f8dc4aba4e5a18dd6a"
  },
  "notes": [
-  "Neu: Filme und Serien am TV – OK zeigt das Banner, zweites OK öffnet die Filmseite"
+  "Neu: Untertitel-Menü, Schlaf-Timer, Radio, Datei-Auswahl; Filme/Serien am TV mit 6 Postern und flüssigerem Blättern"
  ]
 }
